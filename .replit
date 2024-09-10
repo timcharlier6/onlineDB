@@ -1,0 +1,6 @@
+run = " sqlite3 -init .sqlite_rc main.sql"
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", " sqlite3 -init .sqlite_rc main.sql"]
