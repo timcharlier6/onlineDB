@@ -1,3 +1,3 @@
-# online_ressources_db
+# onlineDB
 
 Replit for my online ressources database.
