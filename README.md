@@ -8,3 +8,9 @@ sqlite3 main.db < dump.sql
 
 ## To copy paste into repl
 ctrl shift v
+
+## List tables
+.tables 
+
+## List table structure
+.schema mytablehttps://www.activewild.com/a-to-z-animals/
