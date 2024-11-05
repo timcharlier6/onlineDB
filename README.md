@@ -12,5 +12,10 @@ ctrl shift v
 ## List tables
 .tables 
 
+or
+
+SELECT name FROM sqlite_master WHERE type='table' ORDER BY name;
+
 ## List table structure
-.schema mytablehttps://www.activewild.com/a-to-z-animals/
+.schema mytable 
+
